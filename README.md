@@ -1,2 +1,2 @@
 # tennis-game
-fun game with scores! playing against the computer 
+fun tennis game with scores! playing against the computer 
