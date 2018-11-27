@@ -1,2 +1,3 @@
 # Tennis Game
-fun tennis game with scores! playing against the computer 
+Fun tennis game with scores built using canvas & javascript! 
+Play against the computer & see who wins!
